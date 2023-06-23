@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ## 🔭 I’m currently working on learning cybersecurity 🔒
 
 ### THM
-![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/dudu8009.png" alt="TryHackMe">
