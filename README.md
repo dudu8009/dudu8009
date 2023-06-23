@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🔭 I’m currently working on learning cybersecurity 🔒
+## 🌱 I’m currently learning cybersecurity 
 
 ### THM
 <img src="https://tryhackme-badges.s3.amazonaws.com/dudu8009.png" alt="TryHackMe">
